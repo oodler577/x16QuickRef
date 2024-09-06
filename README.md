@@ -1,3 +1,4 @@
+
 | **Action**                           | **Real Hardware Key Com**bo | **Emulator Key Combo**     |
 | Hard Reset Machine                   | CTRL+ALT+DELETE             | OSKEY+R                    |
 | Break Program                        | CTRL+ALT+PrintScreen        | OSKEY+R                    |
